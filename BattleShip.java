@@ -591,7 +591,7 @@ public class BattleShip {
     public static void main(String []args) {
 
         BattleShip server  = new BattleShip();
-        server.welcome();
+        //server.welcome();
 
         //initializing parameters for printTitle method
         int playerOne = 0;
